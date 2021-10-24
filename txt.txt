@@ -1,0 +1,17 @@
+    // await pagina.evaluate( () => {
+    //     window.scrollBy(0, window.innerHeight);
+    //   });
+    //   await page.waitForSelector('[data-test-id="gradient"]');
+        // await pagina.waitForSelector('[data-test-id="gradient"]');
+
+    // await pagina.click('[aria-label="mais"]')
+    // await pagina.click('[class="YDx MIw"]')
+    
+        // window.scrollBy(0, window.innerHeight);
+        // await pagina.waitForSelector('[data-test-id="homefeed-feed"]');
+        // await pagina.screenshot({ path: `./fotos/example${i}.jpg`, quality: 100, height: 300 })
+
+    // fs.writeFile('./Json/Src.json', JSON.stringify(imglist, null, 2), err => {
+    //     if (err) throw new Error('something wen wrong')
+    //     console.log("wel done img")
+    // })
